@@ -1,32 +1,103 @@
-# Starbucks
- Web Starbucks - Café
-    
+<p align="center">
+   <img src="https://media.giphy.com/media/iJVtsbgNDGnDMQif1J/giphy.gif" alt="coffe" width="250"/>
+</p>
+
+<p align="right">
+   <img src="https://media.giphy.com/media/rTEOxgoKAbSkE/giphy.gif" alt="coffe" width="150"/>
+</p>
 
 
-<hr>
 
-## Sobre ☕☕
 
-Projeto clone da página  Café Starbucks
- <br/>
-O projeto tem como objetivo desenvolver conhecimentos em HTML, CSS e JavaScript
+<h1 align="center"></h1>
 
-<hr>
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/project-starbucks?color=017143">
 
-## 🎨 Layout
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/papelaria-caprichos?color=017143">
 
-![](https://media.giphy.com/media/PGFM9ZwJa4P7ZNB4e6/giphy.gif)
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/agostinhomarcia/project-starbucks?color=017143">
 
-<hr>
+   <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/project-starbucks?color=017143">
 
-## Site 💻
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/project-starbucks?color=017143" /> 
 
-Conheça o site clicando em <a href="#"> Starbucks </a>
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/project-starbucks?color=017143" /> 
 
-<hr>
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/project-starbucks?color=017143" /> 
+</p>
 
-## Licença 📝
 
-Este projeto está sob a licença MIT.CLique <a href="https://github.com/Rafael-Yokoyama/Nebulon-s/blob/main/LICENSE"> aqui </a> para saber mais
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>&#xa0; | &#xa0
+  <a href="https://agostinhomarcia.github.io/papelaria-caprichos/" target="_blank" rel="noopener noreferrer">Projeto</a>
+</p>
 
-Este projeto foi desenvolvido com 💛 por <a href="https://github.com/agostinhomarcia"> @Márcia Agotinho </a>
+<br>
+
+## :dart: About ##
+
+
+<h4 align="center">Starbucks </h4>
+
+<p align="center">
+   <img src="https://media.giphy.com/media/PGFM9ZwJa4P7ZNB4e6/giphy.gif" alt="coffe" width="650"/>
+</p>
+
+
+## :sparkles: Features ##
+
+:heavy_check_mark: Add Shopping Cart;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
+
+## :rocket: Technologies ##
+
+The following tools were used in this project:
+
+
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/Javascript)
+
+
+
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+
+## :checkered_flag: Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/agostinhomarcia/project-starbucks.git
+# Access
+$ cd project-starbucks
+# The server will initialize in the <http://127.0.0.1:5500l>
+```
+
+
+
+## :memo: License ##
+
+
+This project is under the [MIT license](./License).
+
+Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
+
+
+
+
+<p align="center">
+   <img src="https://media.giphy.com/media/IaMxrzxAVIBrYRAsJN/giphy.gif" alt="coffe" width="250"/>
+</p>
+
+&#xa0;
+
+<a href="#top">Back to top </a>
