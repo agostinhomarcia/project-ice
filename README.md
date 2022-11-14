@@ -35,8 +35,8 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="https://agostinhomarcia.github.io/papelaria-caprichos/" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="https://github.com/agostinhomarcia/project-starbucks" target="_blank">Author</a>&#xa0; | &#xa0
+  <a href="https://fantastic-yeot-5c7cac.netlify.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
