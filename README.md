@@ -53,7 +53,7 @@
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Add Shopping Cart;\
+:heavy_check_mark: Add Responsive;\
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
 
